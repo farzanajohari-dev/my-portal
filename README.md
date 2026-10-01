@@ -5,13 +5,12 @@
 ### Full-Stack Web Developer | Laravel & PHP Specialist | Backend Engineer
 
 <p>
-  <a href="https://github.com/farzanajohari12-ctrl">
+  <a href="https://github.com/farzanajohari-dev">
     <img src="https://img.shields.io/badge/GitHub-farzanajohari12--ctrl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:farzanajohari12@gmail.com">
+  <a href="mailto:farzanajohari2020@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <img src="https://img.shields.io/badge/Location-Malaysia-red?style=for-the-badge" alt="Location">
 </p>
 
 <img
