@@ -4,16 +4,6 @@
 
 ### Full-Stack Web Developer | Laravel & PHP Specialist | Backend Engineer
 
-<p>
-  <a href="https://github.com/farzanajohari-dev">
-    <img src="https://img.shields.io/badge/GitHub-farzanajohari12--ctrl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:farzanajohari2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <img src="https://img.shields.io/badge/Location-Malaysia-red?style=for-the-badge" alt="Location">
-</p>
-
 <img
   src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Laravel+%7C+PHP+%7C+JavaScript+Specialist;Building+Scalable+Enterprise+Systems;Clean+Architecture+%7C+API+%7C+Database+Design;Problem+Solver+%7C+Backend+Engineer"
   alt="Typing introduction"
@@ -171,19 +161,6 @@ A business approval system supporting configurable multi-level approval workflow
 - ✔️ Secure Authentication Systems
 - ✔️ Backend Engineering
 - ✔️ Enterprise Application Development
-
----
-
-## 📫 Contact
-
-<p>
-  <a href="mailto:farzanajohari2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-farzanajohari12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/farzanajohari-dev">
-    <img src="https://img.shields.io/badge/GitHub-farzanajohari12--ctrl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
 
 ---
 
